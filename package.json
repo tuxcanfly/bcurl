@@ -24,10 +24,10 @@
     "webpack": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "brq": "^0.0.1",
-    "bsock": "^0.0.1"
   },
   "devDependencies": {
+    "brq": "github:tuxcanfly/brq",
+    "bsock": "github:tuxcanfly/bsock",
     "babelify": "^7.3.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
